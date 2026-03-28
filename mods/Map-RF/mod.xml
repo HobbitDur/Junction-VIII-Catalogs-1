@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Mod>
   <ID>ea59ec8f-fc0c-43d2-af55-a432a5075642</ID>
-  <Name>Map-RF</Name>
+  <Name>[Tsunamods] Map-RF</Name>
   <Author>Hobbitdur &amp; Dulca</Author>
   <Category>World Models</Category>
   <Description>
@@ -14,7 +14,7 @@ Graphical enhancement of the map. For the moment the quality is "proof of concep
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>hhttps://modcdn.win/Hobbitdur/map-rf_preview.png</PreviewImage>
   <ReleaseNotes>
-- 1.0: Creation of the mpd
+- 1.0: Creation of the map
   </ReleaseNotes>
     <DownloadSize>64000</DownloadSize>
   </LatestVersion>
