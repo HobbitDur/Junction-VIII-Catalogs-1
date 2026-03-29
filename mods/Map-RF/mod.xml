@@ -12,7 +12,7 @@ Graphical enhancement of the map. For the moment the quality is "proof of concep
     <Version>1.0</Version>
     <ReleaseDate>2026-02-27</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>hhttps://modcdn.win/Hobbitdur/map-rf_preview.png</PreviewImage>
+    <PreviewImage>https://modcdn.win/Hobbitdur/map-rf_preview.png</PreviewImage>
   <ReleaseNotes>
 - 1.0: Creation of the map
   </ReleaseNotes>
